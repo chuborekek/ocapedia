@@ -1,0 +1,22 @@
+{
+  "destination": [
+    {
+      "city": "Manila",
+      "country": "PH",
+      "daysNeeded": 1,
+      "id": 8
+    },
+    {
+      "city": "Chicago",
+      "country": "USA",
+      "daysNeeded": 5,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "city": "Tokyo",
+      "country": "Japan",
+      "daysNeeded": 3
+    }
+  ]
+}

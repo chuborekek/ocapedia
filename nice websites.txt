@@ -1,0 +1,3 @@
+ui-avatars.com - create avatar picture base on the starting letter of your name
+faker - creating random images or avatar
+lorem.space - website where it gives placeholder images base on your criteria like for fashion,face pic, game cover,etc
